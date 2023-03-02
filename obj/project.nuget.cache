@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtWetctMsjdl0FdDek8VfJVGoPNHWgE98NzR9h1bX8H9hkRBmFRjSKyABquvFAPKm167r2tT8fJ3W0tDwHI0dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chintan.lakhani\\source\\repos\\testangularaspdotnet\\testangularaspdotnet\\testangularaspdotnet.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chintan.lakhani\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
